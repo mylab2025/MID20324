@@ -9,7 +9,7 @@
       "MID": "mid20324",
       "MD": "LF60 185X or 60R185XMR is\r\nHolding Current: 1.85A (Maximum current the device can sustain for 4 hours at 20\u00B0C without tripping).\r\nTrip Current : 3.7A (Minimum current that will cause the device to trip/activate at 20\u00B0C).\r\nMaximum Voltage : 60VDC.\r\nMaximum Fault Current : 40A.\r\nTime to Trip: 12.6 seconds (at 5x current).\r\nShape: Radial lead, typically round (16.76mm diameter).\r\nOperating Temperature: -40\u00B0C to 85\u00B0C",
       "MT": "Electronic Material",
-      "MQNT": 0,
+      "MQNT": 8,
       "MQATG": "#CLASS_0",
       "ML": "120",
       "MCost": 227.92,
